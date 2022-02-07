@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\AN3\an3_sem1\PG Prelucrare Grafica\LABORATOARE\lab 2\Proiect\main.cpp(258,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Proiect.vcxproj -> D:\AN3\an3_sem1\PG Prelucrare Grafica\LABORATOARE\lab 2\Proiect\x64\Debug\Proiect.exe
